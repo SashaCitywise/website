@@ -1,0 +1,41 @@
+nav ul{
+    list-style-type: none;
+    margin: 2;
+    padding: 10;
+    overflow: hidden;
+    background-color: black;
+}
+ul p{
+    float: right;
+    font-family: 'Lobster';
+    display: block;
+    padding: 40px 30px;
+    background-color: maroon;
+}
+nav li{
+    float: left;
+}
+li #bb{
+    display: block;
+}
+li a{
+    display: block;
+    font-family: 'Comic Sans';
+    color: black;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+nav img{
+    height: 50px;
+    width: 150px;
+    display: block;
+    padding: 40px 30px;
+    background-color: rgb(9, 9, 9);
+}
+
+div p{
+    font-size: 14px;
+    font-family: 'Gothic';
+}
